@@ -1,0 +1,11 @@
+Tristen Lilly
+I used the VIM command to make and edit this text file and then copyed the file to renamethe file using the cp command.
+
+
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
+
